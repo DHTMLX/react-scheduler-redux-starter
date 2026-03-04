@@ -55,12 +55,13 @@ Source code in this repo is released under the **MIT License**.
 
 ## Useful links
 
-
 [DHTMLX React Scheduler product page](https://dhtmlx.com/docs/products/dhtmlxScheduler-for-React/)
 
 [DHTMLX Scheduler product page](https://dhtmlx.com/docs/products/dhtmlxScheduler/)
 
 [Documentation](https://docs.dhtmlx.com/scheduler/)
+
+[React Scheduler Documentation](https://docs.dhtmlx.com/gantt/integrations/react/)
 
 [Blog](https://dhtmlx.com/blog/)
 
